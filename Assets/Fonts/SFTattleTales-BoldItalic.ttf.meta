@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 9c58ad074b2efec429bbc511f3c38347
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Tattle Tales
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61c53237b5d4a814c9bf02f15d0df10a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

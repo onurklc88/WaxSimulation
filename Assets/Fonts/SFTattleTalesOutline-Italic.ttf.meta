@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 34d238bd7bd856445834f402633277b1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - SF Tattle Tales Outline
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c273173e4c21e384c9667d715d591956, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
